@@ -12,8 +12,6 @@
   <img align="center" alt="go" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luizffdemoraes&layout=donut-vertical)](https://github.com/luizffdemoraes/github-readme-stats)
-
 ## Backend developer on a journey of learning and improving skills to create better APIs. 👨💻
 
 - 📫 How to reach me **lffm1994@gmail.com**
